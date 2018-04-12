@@ -1,2 +1,2 @@
 # Boggle
-# Boggle gameplay and solution written in Java
+Boggle gameplay and solution written in Java
